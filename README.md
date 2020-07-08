@@ -10,4 +10,4 @@ I was not able to achieve the target model performance. I tried to increase the 
 
 ### If you were to implement a different model to solve this classification problem, which would you choose? Why?
 
-I would choose Random Forest Deep learning. 
+I would choose Random Forest model. This model is less likely to result in overfitting compared to neural network models. 
